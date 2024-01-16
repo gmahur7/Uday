@@ -1,0 +1,14 @@
+table, td, th {
+  border:1px solid green;
+}
+
+.links {
+  text-decoration: none;
+  color:#069;
+  padding: 0px 10px;
+
+}
+
+.error {
+  color:red;
+}
